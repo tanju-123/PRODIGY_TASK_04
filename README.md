@@ -34,8 +34,8 @@ less
 Copy
 Edit
 
-## 🙋‍♂️ About Me
+## 🧑‍💻 Developed by
 
-**Md Tanjil Hussain**  
-- B.Tech (ECE), IEM Kolkata  
-- Web Development Intern at Prodigy Infotech  
+Md Tanjil Hussain
+Web Development Intern
+Prodigy Infotech 
