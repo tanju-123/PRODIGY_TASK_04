@@ -25,9 +25,13 @@ This is a responsive and professional portfolio website to showcase my skills, p
 ## 📁 Folder Structure
 
 Task-04_PersonalPortfolio/
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js (optional)
+
 └── README.md
 
 less
